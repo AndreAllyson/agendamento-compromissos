@@ -4,10 +4,7 @@
  */
 package com.mycompany.agenda.compromisso;
 
-/**
- *
- * @author allyson
- */
+
 public class Reuniao extends Compromisso {
     public String participantes;
     
